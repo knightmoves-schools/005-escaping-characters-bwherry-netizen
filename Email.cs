@@ -1,7 +1,4 @@
-﻿namespace knightmoves;
-public class Email
-{
-   namespace knightmoves;
+namespace knightmoves;
 public class Email
 {
    public string introduction = 
@@ -10,6 +7,5 @@ public class Email
    "I hpe to see you \'Tomorrow\'.\n\n" +
    "Sincerly,\n" +
    "Dave Miller: \\";
-}
 }
 
